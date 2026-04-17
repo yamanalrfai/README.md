@@ -10,5 +10,5 @@ I'm a Computer Science student at Applied Science Private University and pursuin
 ## 📫 Get in Touch
 
 * **Email:** yaman.alrfai@gmail.com
-* **Codeforces:** yamanalrfai
+* **Codeforces:** yeah.man
 * **GitHub:** yaman-alrifai
